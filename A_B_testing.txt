@@ -1,0 +1,38 @@
+1. Understanding Users - KPI
+2. Identifying Trends - Exploratory Data Analysis
+3. Optimizing Performance - Design of A/B Tests
+4. Data Driven Decisions - Analyzing A/B Tests Results
+
+- What Can You Test?
+
+Almost anything on your website that affects visitor behavior can be A/B tested.
+
+Headlines
+Sub headlines
+Paragraph Text
+Testimonials
+Call to Action text
+Call to Action Button
+Links
+Images
+Content near the fold
+Social proof
+Media mentions
+Awards and badges
+What is A/B testing
+Advanced tests can include pricing structures, sales promotions, free trial lengths, navigation and UX experiences, free or paid delivery, and more.
+
+- A/B Testing Process
+
+The correct way to run an A/B testing experiment is to follow a scientific process. It includes the following steps:
+
+1. Study your Website Data: Use a website analytics tool such as Google Analytics, and find the problem areas in your conversion funnel. For example, you can identify the pages with the highest bounce rate. Let's say, your homepage has an unusually high bounce rate.
+2. Observe User Behavior: Utilize visitor behavior analysis tools such as Heatmaps, Visitor Recordings, Form Analysis and On-page Surveys, and find what is stopping the visitors from converting. For example, “The CTA button is not prominent on the home page."
+3. Construct a Hypothesis: Per the insights from visitor behavior analysis tools, build a hypothesis aimed at increasing conversions. For example, “Increasing the size of the CTA button will make it more prominent and will increase conversions.”
+4. Test your Hypothesis: Create a variation per your hypothesis, and A/B test it against the original page. For example, “A/B test your original home page against a version that has a larger CTA button.” Calculate the test duration with respect to the number of your monthly visitors, current conversion rate, and the expected change in the conversion rate. (Use our Bayesian Calculator here.)
+5. Analyze Test Data and Draw Conclusions: Analyze the A/B test results, and see which variation delivered the highest conversions. If there is a clear winner among the variations, go ahead with its implementation. If the test remains inconclusive, go back to step number three and rework your hypothesis.
+6. Report results to all concerned: Let others in Marketing, IT, and UI/UX know of the test results and the insights generated.
+
+KPI:
+Conversion rate: (definition?) Time to make the purchase
+- Stable, generalizable KPIs are better than custom KPIs
