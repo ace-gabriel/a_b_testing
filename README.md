@@ -7,3 +7,7 @@ Sources:
 - courses & Udacity A_B_Testing Courses
 
 - With exercieses in jupyternotebook
+
+- Final Project in Udacity
+
+- Audacity & Units of Diversion
